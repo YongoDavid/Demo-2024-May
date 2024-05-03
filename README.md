@@ -7,3 +7,4 @@ LETS KILL IT AGAIN!!! THIS MONTH DAVID!!.
 May-03-2024
 programming gets very tiring when there is slow or no progress at all with a project.
 i am currently facing another issue with the Uderika project.
+i am going too redo the fetch API and hopefully it all works out.

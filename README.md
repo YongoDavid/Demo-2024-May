@@ -5,3 +5,4 @@ I just need to keep going and oone day i will look backk abd be happy i never ga
 LETS KILL IT AGAIN!!! THIS MONTH DAVID!!.
 
 May-03-2024
+programming gets very tiring when there is slow or no progress at all with a project.

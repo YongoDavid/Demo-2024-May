@@ -10,3 +10,4 @@ i am currently facing another issue with the Uderika project.
 i am going too redo the fetch API and hopefully it all works out.
 
 May-04-2024
+Uderika new version has been completed.

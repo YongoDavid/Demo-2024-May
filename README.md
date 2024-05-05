@@ -16,3 +16,4 @@ if there are nooo more changes to be made then the project is 90% complete.
 
 May-05-2024
 Client has given me feed back on the website and he loves it.
+slightt changes left and tthe project would be done 100%.

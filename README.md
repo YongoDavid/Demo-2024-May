@@ -22,3 +22,4 @@ AMAZING WORK I HAVE DONE SOO FAR BY BRINGING SOMEONES BUSINESS TO LIFE!
 
 May-06-2024
 its a new week , lets grind some more!.
+i have changed the book images for both the main page and the home pages.

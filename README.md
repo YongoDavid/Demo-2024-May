@@ -25,3 +25,5 @@ its a new week , lets grind some more!.
 i have changed the book images for both the main page and the home pages.
 Few more cleaning up t do.
 i thinkk i am going to try linking a data base again , but first i need to check why it is not working and try to resolve the issue from the beginning.
+
+May-07-2024

@@ -31,3 +31,4 @@ Still rearranging the books sections too fit the new images i just put.
 Also chaning the desktop desgin for the about page.
 
 May-08-2024
+still working on the new layout for the about page.

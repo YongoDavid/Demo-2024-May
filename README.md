@@ -32,3 +32,4 @@ Also chaning the desktop desgin for the about page.
 
 May-08-2024
 still working on the new layout for the about page.
+the new images for the bookss section has added and the new layout for the about page is done.

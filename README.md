@@ -37,3 +37,4 @@ i still need to work on the HERO section for the desktop/latop view.
 
 May-09-2024
 Did a presentation on Express today , it was amazing.
+I need to clean up the the optimazation for some screens for the Uderika project.

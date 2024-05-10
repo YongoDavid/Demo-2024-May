@@ -41,3 +41,4 @@ I need to clean up the the optimazation for some screens for the Uderika project
 
 May-10-2024
 i need to Center the hero section very well for larger screens like desktop minitors.
+I also need to move the logo abit to the lleft side of the screen.

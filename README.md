@@ -46,3 +46,4 @@ Also make suure i have all screens set properly.
 I need to check and update permissons for the textfille.
 
 May-11-2024
+Midnight work on some qwasar projects

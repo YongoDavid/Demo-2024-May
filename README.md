@@ -47,3 +47,4 @@ I need to check and update permissons for the textfille.
 
 May-11-2024
 Midnight work on some qwasar projects
+Trying to do moria , to get more points to submit.

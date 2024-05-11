@@ -44,3 +44,5 @@ i need to Center the hero section very well for larger screens like desktop mini
 I also need to move the logo abit to the lleft side of the screen.
 Also make suure i have all screens set properly.
 I need to check and update permissons for the textfille.
+
+May-11-2024

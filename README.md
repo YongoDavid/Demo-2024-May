@@ -54,3 +54,4 @@ The master-mind project has been submitted.
 My peer review has finally been approved.
 Now its time for me to focus abuut more on the Uderika project.
 Just a few more things left to do on this project but i can say the project is 80% done.
+i might go back to testing a databse on it to see if it will work.

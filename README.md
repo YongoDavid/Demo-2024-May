@@ -50,3 +50,4 @@ Midnight work on some qwasar projects
 Trying to do moria , to get more points to submit.
 
 May-12-2024
+The master-mind project has been submitted.

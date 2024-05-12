@@ -52,3 +52,4 @@ Trying to do moria , to get more points to submit.
 May-12-2024
 The master-mind project has been submitted.
 My peer review has finally been approved.
+Now its time for me to focus abuut more on the Uderika project.

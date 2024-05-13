@@ -58,3 +58,4 @@ i might go back to testing a databse on it to see if it will work.
 
 May-13-2024
 its a new week let goooo!!
+Trying to use cloud database on the uderika project.

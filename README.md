@@ -60,3 +60,4 @@ May-13-2024
 its a new week let goooo!!
 Trying to use cloud database on the uderika project.
 Using MongoDb atlas for this.
+All the connections to MongoDB Atlas has been done.

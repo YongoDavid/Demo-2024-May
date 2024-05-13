@@ -61,3 +61,4 @@ its a new week let goooo!!
 Trying to use cloud database on the uderika project.
 Using MongoDb atlas for this.
 All the connections to MongoDB Atlas has been done.
+later on i will test the connections and clean up some code

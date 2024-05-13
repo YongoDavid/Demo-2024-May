@@ -57,3 +57,4 @@ Just a few more things left to do on this project but i can say the project is 8
 i might go back to testing a databse on it to see if it will work.
 
 May-13-2024
+its a new week let goooo!!

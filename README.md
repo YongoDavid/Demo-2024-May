@@ -66,3 +66,4 @@ later on i will test the connections and clean up some code
 May-14-2024
 MoongoDB atlas set up complete.
 testing locally was 100% successful.
+i will soon test while hosted , i just need to configure the IP , environment variables and few other check.

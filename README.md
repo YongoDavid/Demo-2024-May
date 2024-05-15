@@ -71,3 +71,4 @@ i need to make sure i test the admin website to make suure it is 100%.
 
 May-15-2024
 The Uderika project is 95% DONE .
+Everything seems to be working , and the database is working as it should

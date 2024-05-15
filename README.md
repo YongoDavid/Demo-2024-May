@@ -70,3 +70,4 @@ i will soon test while hosted , i just need to configure the IP , environment va
 i need to make sure i test the admin website to make suure it is 100%.
 
 May-15-2024
+The Uderika project is 95% DONE .

@@ -24,7 +24,7 @@ May-06-2024
 its a new week , lets grind some more!.
 i have changed the book images for both the main page and the home pages.
 Few more cleaning up t do.
-i thinkk i am going to try linking a data base again , but first i need to check why it is not working and try to resolve the issue from the beginning.
+i think i am going to try linking a data base again , but first i need to check why it is not working and try to resolve the issue from the beginning.
 
 May-07-2024
 Still rearranging the books sections too fit the new images i just put.
@@ -74,3 +74,4 @@ The Uderika project is 95% DONE .
 Everything seems to be working , and the database is working as it should
 
 May-16-2024
+time for some night time work.

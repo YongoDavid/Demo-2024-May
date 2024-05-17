@@ -80,3 +80,4 @@ Both The Uderika main and Admin websites are working 100%.
 May-17-2024
 Uderika project is finally done.
 Again i have sent it to the client and i am waiting for a response.
+Hopefully there is nothing else that needs to be changed.

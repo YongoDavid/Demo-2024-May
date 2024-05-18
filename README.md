@@ -85,3 +85,4 @@ Lets run some SE0 update.
 
 May-18-2024
 its a new day , another night drill.
+still waiting on the Uderika clinet for an update so i can be certain that i am done with the project.

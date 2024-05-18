@@ -87,3 +87,4 @@ May-18-2024
 its a new day , another night drill.
 still waiting on the Uderika clinet for an update so i can be certain that i am done with the project.
 For now , let me hope on Qwasar , and get some points to submit two project and move from there.
+Submitted two projects on Qwaser already in BootCamp Ruby.

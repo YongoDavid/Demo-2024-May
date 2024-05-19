@@ -93,3 +93,4 @@ Soo far Ruby is not really complicated and it is going well.
 May-19-2024
 Client still wants slight changes to be made on the about page.
 Not doing much today , few hours and i will rest , cause today is my resting day.
+Still need to finish up some SEO work when clean up when i get back.

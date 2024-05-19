@@ -91,4 +91,4 @@ Submitted two projects on Qwaser already in BootCamp Ruby.
 Soo far Ruby is not really complicated and it is going well.
 
 May-19-2024
-Client still wants slight change to be made on the aboout page.
+Client still wants slight changes to be made on the about page.

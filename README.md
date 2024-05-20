@@ -1,5 +1,5 @@
 # Demo-2024-May
-IT IS A NEW MONTH ALREADY!!! , TIME HAS MOVE SOOO FAST.
+IT IS A NEW MONTH ALREADY!!! , TIME HAS MOVED SOOO FAST.
 This journey of being a developer is not EASY at all but i am Proud of ME. 
 I just need to keep going and oone day i will look backk abd be happy i never gave up.
 LETS KILL IT AGAIN!!! THIS MONTH DAVID!!.
@@ -95,3 +95,6 @@ Client still wants slight changes to be made on the about page.
 Not doing much today , few hours and i will rest , cause today is my resting day.
 Still need to finish up some SEO work when clean up when i get back.
 See you later!!!!
+
+May-20-2024
+

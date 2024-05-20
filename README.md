@@ -98,3 +98,4 @@ See you later!!!!
 
 May-20-2024
 New week , lets put in moore work!!!
+I am making some correcttions on the about page , changing the styling again.

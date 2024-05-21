@@ -103,3 +103,4 @@ i need to change the fonts as well , to something similar to that of shopify.
 
 May-20-2024
 About page new design again.
+i need to creat a sitemap for this project.

@@ -102,4 +102,4 @@ I am making some corrections on the about page , changing the styling again.
 i need to change the fonts as well , to something similar to that of shopify.
 
 May-20-2024
-
+About page new design again.

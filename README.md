@@ -100,3 +100,6 @@ May-20-2024
 New week , lets put in moore work!!!
 I am making some corrections on the about page , changing the styling again.
 i need to change the fonts as well , to something similar to that of shopify.
+
+May-20-2024
+

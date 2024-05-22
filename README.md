@@ -109,3 +109,4 @@ May-22-2024
 Uderika Project is finally complete.
 what is left is to create a sitemap if needed and then the site goes live.
 post production sitemap has been created and ready to be uploaded.
+New changhes for SEO also has been made.

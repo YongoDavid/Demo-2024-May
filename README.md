@@ -112,4 +112,4 @@ post production sitemap has been created and ready to be uploaded.
 New changhes for SEO also has been made.
 
 May-23-2024
-
+Trying to use FTP to upload and host the website live.

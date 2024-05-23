@@ -113,3 +113,5 @@ New changhes for SEO also has been made.
 
 May-23-2024
 Trying to use FTP to upload and host the website live.
+CoreFTP is not working so i will look for another alternative.
+

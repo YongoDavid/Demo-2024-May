@@ -116,3 +116,4 @@ Trying to use FTP to upload and host the website live.
 CoreFTP is not working so i will look for another alternative.
 
 May-24-2024
+The Uderika project is finally going to be hosted today and hopfully live.

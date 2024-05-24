@@ -117,3 +117,5 @@ CoreFTP is not working so i will look for another alternative.
 
 May-24-2024
 The Uderika project is finally going to be hosted today and hopfully live.
+i will be using fileZilla FTP to transfer and send all the files to get live.
+

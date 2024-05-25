@@ -123,3 +123,4 @@ Uderika main website files are currently uploading.
 
 May-25-2024
 Uderika main project files have finally been uploaded to go live.
+Uderika Admin files have finally been uploaded to go live.

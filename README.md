@@ -132,4 +132,4 @@ i need to start uploading my Qwasar sillocon valley project to Gib hub.
 Upload the projects will the different Languages i have worked with soooo far.
 
 May-27-2024
-Updating my portfolio with the userika project.
+Updating my portfolio with the uderika project.

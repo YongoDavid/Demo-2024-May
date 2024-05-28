@@ -135,4 +135,4 @@ May-27-2024
 Updating my portfolio with the uderika project.
 
 May-28-2024
-
+Updatinng Qwasar projects.

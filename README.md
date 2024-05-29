@@ -137,3 +137,5 @@ Updating my portfolio with the uderika project.
 May-28-2024
 Updatinng Qwasar projects.
 Cuurrently on Bootcamp js
+
+Msy-29-2024

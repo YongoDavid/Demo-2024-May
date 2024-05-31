@@ -147,4 +147,6 @@ Adding more Qawsar Projects.
 
 May-31-2024
 Working on the E-commerce Website.
+Updating Github with sillicon Valley Projects.
+
 
